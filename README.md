@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vasu Chapadia</h1>
 <h3 align="center">A Full Stack Developer From India</h3>
 
-- 🔭 I’m currently working on **Milk App Delivery - Subscription Basis**
+- 🔭 I’m currently working on **Milk Delivery App - Subscription Basis**
 
 - 🌱 I’m currently learning **React Native , AWS**
 
