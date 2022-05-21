@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Upskilling**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **React , Node.JS**
 
