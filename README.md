@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Vasu Chapadia</h1>
 <h3 align="center">A Full Stack Developer From India</h3>
 
-- 🔭 I’m currently working on **Upskilling**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **React , Node.JS**
+- 💬 Ask me about **React , Node.JS, GraphQL**
 
 - 📫 How to reach me **chapadiavasu@gmail.com**
 
