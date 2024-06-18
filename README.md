@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vasu Chapadia</h1>
 <h3 align="center">A Full Stack Developer From India</h3>
 
-- 🔭 I’m currently working on **buywow.in**
+- 🔭 I’m currently working on **<a href="https://www.buywow.in/">buywow.in</a>**
 
 - 🌱 I’m currently learning **Typescript**
 
