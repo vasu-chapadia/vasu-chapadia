@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently building omnichannel platform next generation jewellery brand.
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **React , Node.JS, GraphQL**
 
